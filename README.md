@@ -50,6 +50,8 @@ Express JS
 bash
 git clone https://github.com/AASHI-881/mern-chat-app
 cd mern-chat-app
+
+
 2. Install dependencies
 
 
